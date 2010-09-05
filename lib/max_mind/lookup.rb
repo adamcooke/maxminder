@@ -49,7 +49,7 @@ module MaxMind
         'cityPostalMatch'         => [:city_matches_postal?, :boolean],
         'shipCityPostalMatch'     => [:ship_city_matches_postal?, :boolean],
         'score'                   => [:score, :decimal],
-        'explanation'             => [:explaination, :string],
+        'explanation'             => [:explanation, :string],
         'riskScore'               => [:risk_score, :decimal],
         'queriesRemaining'        => [:queries_remaining, :decimal],
         'maxmindID'               => [:id, :string],
