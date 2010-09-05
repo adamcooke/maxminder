@@ -8,7 +8,7 @@ to run fraud checks on a variety of data.
 The library is provided in the form of a RubyGem, you can install it or just pop it
 in your Gemfile.
 
-    [sudo] gem install maxmind
+    [sudo] gem install maxminder
 
 Once installed, just require it and specify your MaxMind licence key.
 
