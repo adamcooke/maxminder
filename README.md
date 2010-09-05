@@ -112,7 +112,7 @@ class. This class has a number of methods which you can use...
  * `id` - Unique identifier, used to reference transactions when reporting fraudulent activity back to MaxMind.
  * `error` - Returns an error string with a warning message or a reason why the request failed. 
 
-For more information you can look at the [intergration pages](http://www.maxmind.com/app/ccv) on the MaxMind website.
+For more information you can look at the [integration pages](http://www.maxmind.com/app/ccv) on the MaxMind website.
 
 ## Disclaimer
 
